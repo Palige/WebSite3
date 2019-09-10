@@ -110,7 +110,7 @@ body {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: url("/Images/home2.jpg") no-repeat;
+  background: url("../Images/home.jpg") no-repeat;
   background-size: cover;
 }
 
